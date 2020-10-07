@@ -8,5 +8,10 @@ public class October7 {
         //7 october branch merge
         //testing
 
+
+
+    }
+    public void freakout(){
+        System.out.println("I am freak out");
     }
 }
