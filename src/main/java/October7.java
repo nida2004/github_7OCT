@@ -9,4 +9,7 @@ public class October7 {
         //testing
 
     }
+    public void bugfix(){
+        System.out.println("this is a bugfix");
+    }
 }
