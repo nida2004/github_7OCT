@@ -19,6 +19,12 @@ public class October7 {
         System.out.println("this is a bugfix");
     }
 
+    public void feature2(){
+        System.out.println("Rebasing branches up to date");
+    }
+
+
+
     public void bugfix(String todo){
         System.out.println("todo");
     }
