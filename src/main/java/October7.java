@@ -19,10 +19,10 @@ public class October7 {
         System.out.println("this is a bugfix");
     }
 
-    public void feature2(){
+    public void feature5(){
         System.out.println("Rebasing branches up to date");
     }
-    public void feature3(){
+    public void feature6(){
         System.out.println("Rebasing feature 2");
     }
 
@@ -35,6 +35,16 @@ public class October7 {
 
 
 
+
+
+
+
+    public void feature2(){
+        System.out.println("Rebasing branches up to date");
+    }
+    public void feature3(){
+        System.out.println("Rebasing feature 2");
+    }
 
 
 
