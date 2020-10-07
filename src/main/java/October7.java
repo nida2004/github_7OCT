@@ -14,4 +14,7 @@ public class October7 {
     public void freakout(){
         System.out.println("I am freak out");
     }
+    public void bugfix(){
+        System.out.println("this is a bugfix");
+    }
 }
