@@ -22,6 +22,10 @@ public class October7 {
     public void feature2(){
         System.out.println("Rebasing branches up to date");
     }
+    public void feature3(){
+        System.out.println("Rebasing feature 2");
+    }
+
 
 
 
