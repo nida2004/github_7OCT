@@ -47,5 +47,8 @@ public class October7 {
     }
 
 
+    public void mytrial(){
+        System.out.println("my trial");
+    }
 
 }
